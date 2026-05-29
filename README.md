@@ -15,20 +15,19 @@ Lab 8 kế thừa cách tổ chức repo của Lab 6 socket starter, nhưng thay
 
 ## Team members
 
-- **Thành viên 1**: TODO_MEMBER_1 - MSSV: TODO_MEMBER_1_ID
-- **Thành viên 2**: TODO_MEMBER_2 - MSSV: TODO_MEMBER_2_ID
+- **Thành viên 1**: Đặng Hồng Trung - MSSV: 1871020595
+- **Thành viên 2**: Hoàng Hiểu Đông - MSSV: 1871020146
 
 ## Task division
 
-- **Thành viên 1 phụ trách chính**: TODO_ROLE_MEMBER_1
-- **Thành viên 2 phụ trách chính**: TODO_ROLE_MEMBER_2
-- **Phần làm chung**: TODO_SHARED_WORK
-
+- **Thành viên 1 phụ trách chính**: Đặng Hồng Trung
+- **Thành viên 2 phụ trách chính**: Hoàng Hiểu Đông 
+- **Phần làm chung**: Thiết kế protocol, test kết nối socket thực tế và xử lý các lỗi ranh giới (edge cases).
 ## Demo roles
 
-- **Demo Sender / mã hóa / log gửi**: TODO_DEMO_ROLE_1
-- **Demo Receiver / giải mã / kiểm tra hash**: TODO_DEMO_ROLE_2
-- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: TODO_DEMO_ROLE_SHARED
+- **Demo Sender / mã hóa / log gửi**: Đặng Hồng Trung
+- **Demo Receiver / giải mã / kiểm tra hash**: Hoàng Hiểu Đông
+- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: Cả nhóm
 
 ---
 
